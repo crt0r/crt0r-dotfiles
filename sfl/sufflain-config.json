@@ -1,0 +1,22 @@
+{
+    "user": {
+        "name": "",
+        "password": ""
+    },
+    "database": {
+        "url": "",
+        "groupsPath": "/groups",
+        "timetablePath": "/timetables",
+        "hashesPath": "/hashes",
+        "postOrderPath": "/order",
+        "teachersNamesPath": "/names",
+        "teachersTimetablePath": "/teachers-timetables"
+    },
+    "collegeSite": {
+        "url": "https://cbcol.mskobr.ru",
+        "blogPath": "/elektronnye_servisy/blog/"
+    },
+    "app": {
+        "sleepTime": 1800
+    }
+}
