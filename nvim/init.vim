@@ -2,7 +2,7 @@ set number
 set autoindent
 syntax on
 inoremap <C-n> <ESC>
-set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
+set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
 
 call plug#begin()
     Plug 'othree/html5.vim'
