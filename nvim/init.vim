@@ -1,7 +1,6 @@
 set number
 set autoindent
 syntax on
-inoremap <C-n> <ESC>
 set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
 
 call plug#begin()
